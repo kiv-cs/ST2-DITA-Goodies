@@ -1,0 +1,8 @@
+<snippet>
+       <content><![CDATA[
+<topicref href="${1:}" type="${2:}" id="${3:}">
+</topicref>
+]]></content>
+       <tabTrigger>topicref</tabTrigger>
+       <description>DITA topicref element</description>
+</snippet>

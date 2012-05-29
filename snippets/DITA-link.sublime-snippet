@@ -1,0 +1,9 @@
+<snippet>
+       <content><![CDATA[
+<link href="${1:href}">
+  	<linktext>${2:linktext}</linktext>
+</link>
+]]></content>
+       <tabTrigger>link</tabTrigger>
+       <description>DITA link element</description>
+</snippet>

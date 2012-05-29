@@ -1,0 +1,9 @@
+<snippet>
+       <content><![CDATA[
+<context>
+    <p>${1:}</p>
+</context>
+]]></content>
+       <tabTrigger>context</tabTrigger>
+       <description>DITA context element</description>
+</snippet>

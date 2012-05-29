@@ -1,0 +1,14 @@
+<snippet>
+       <content><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="${1:id}">
+	<title>${2:title}</title>
+	<taskbody>
+		
+	</taskbody>
+</task>
+]]></content>
+       <tabTrigger>task</tabTrigger>
+       <description>DITA task</description>
+</snippet>

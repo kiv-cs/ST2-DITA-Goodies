@@ -1,0 +1,7 @@
+<snippet>
+       <content><![CDATA[
+<prop action="flag" att="${1:}" val="${2:}" img="${3:}" alt="${4:}"/>
+]]></content>
+       <tabTrigger>propf</tabTrigger>
+       <description>DITA prop flag element</description>
+</snippet>

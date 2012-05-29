@@ -1,0 +1,9 @@
+<snippet>
+       <content><![CDATA[
+<ul>
+	<li>${1:}</li>
+</ul>
+]]></content>
+       <tabTrigger>ul</tabTrigger>
+       <description>DITA ul</description>
+</snippet>

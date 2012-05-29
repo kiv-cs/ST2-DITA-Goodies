@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<table>
+    <title>${1:}</title>
+    <tgroup cols="${2:}">
+       	<thead>
+	       	<row>
+	       		<entry>${3:}</entry>
+	        </row>
+       	</thead>
+        <tbody>
+	        <row>
+	        	<entry>${4:}</entry>
+	        </row>
+	    </tbody>
+    </tgroup>
+</table>
+]]></content>
+       <tabTrigger>table</tabTrigger>
+       <description>DITA table</description>
+</snippet>

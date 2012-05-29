@@ -1,0 +1,14 @@
+<snippet>
+       <content><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="${1:id}">
+	<title>${2:title}</title>
+	<conbody>
+		<p>${3:}</p>
+	</conbody>
+</concept>
+]]></content>
+       <tabTrigger>concept</tabTrigger>
+       <description>DITA concept</description>
+</snippet>

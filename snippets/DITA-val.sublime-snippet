@@ -1,0 +1,10 @@
+<snippet>
+       <content><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?> 
+<val>
+${1:val}
+</val>
+]]></content>
+       <tabTrigger>val</tabTrigger>
+       <description>DITA val element</description>
+</snippet>

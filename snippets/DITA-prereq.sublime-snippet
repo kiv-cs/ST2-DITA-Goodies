@@ -1,0 +1,9 @@
+<snippet>
+       <content><![CDATA[
+<prereq>
+    <p>${1:}</p>
+</prereq>
+]]></content>
+       <tabTrigger>prereq</tabTrigger>
+       <description>DITA prereq element</description>
+</snippet>

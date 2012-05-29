@@ -1,0 +1,7 @@
+<snippet>
+       <content><![CDATA[
+<prop att="${1:}" val="${2:}" action="exclude"/>
+]]></content>
+       <tabTrigger>prope</tabTrigger>
+       <description>DITA prop exclude element</description>
+</snippet>

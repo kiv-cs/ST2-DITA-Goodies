@@ -1,0 +1,40 @@
+[  
+    {
+    	 "caption": "DITA",
+    	 "children": 
+    	 [
+    	 	{"command" : "dita",
+    	 	 "caption" : "uicontrol",
+    	 	 "args" : {"tagname": "uicontrol"}
+    	 	},
+    	 	{"command" : "dita",
+    	 	 "caption" : "b",
+    	 	 "args" : {"tagname": "b"}
+    	 	},
+    	 	{"command" : "dita",
+    	 	 "caption" : "i",
+    	 	 "args" : {"tagname": "i"}
+    	 	},
+    	 	{"command" : "dita",
+    	 	 "caption" : "u",
+    	 	 "args" : {"tagname": "u"}
+    	 	},
+    	 	{"command" : "dita",
+    	 	 "caption" : "tt",
+    	 	 "args" : {"tagname": "tt"}
+    	 	},
+    	 	{"command" : "dita",
+    	 	 "caption" : "sup",
+    	 	 "args" : {"tagname": "sup"}
+    	 	},
+    	 	{"command" : "dita",
+    	 	 "caption" : "sub",
+    	 	 "args" : {"tagname": "sub"}
+    	 	},
+    	 	{"command" : "dita",
+    	 	 "caption" : "msgph",
+    	 	 "args" : {"tagname": "msgph"}
+    	 	}
+    	 ]
+    }
+]

@@ -1,0 +1,9 @@
+<snippet>
+       <content><![CDATA[
+<step>
+    <cmd>${1:}</cmd>
+</step>
+]]></content>
+       <tabTrigger>step</tabTrigger>
+       <description>DITA step element</description>
+</snippet>
