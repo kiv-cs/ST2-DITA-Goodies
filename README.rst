@@ -1,6 +1,8 @@
 ===========================
 Sublime Text 2 DITA Goodies
 ===========================
+About
+-----
 Sublime Text 2 DITA Goodies is set of tools for DITA authoring with Sublime Text 2. It contains snippets and context menu extentions.
 
 `DITA Specification <http://docs.oasis-open.org/dita/v1.2/os/spec/DITA1.2-spec.html>`_
