@@ -9,11 +9,8 @@ Sublime Text 2 DITA Goodies is set of tools for DITA authoring with Sublime Text
 
 Installation
 ------------
-1. Switch to Sublime Text 2 home directory;
-2. Go to /Plugins subdirectory;
-3. Create new directory (name it 'DITA');
-4. Put all files to Sublime Text 2 home/Plugins/DITA;
-5. Restart Sublime Text 2.
+1. Switch to Sublime Text 2 Packages directory (try Preferences -> Browse Packages);
+2. Put ST2-DITA-Goodies directory here.
 
 Snippets
 --------
@@ -144,6 +141,14 @@ Snippets are shortcuts for peaces of code. Type shortcut + [TAB] and ST2 will re
 ::
 
 	<entry>${1:}</entry>
+
+**fig**
+::
+
+	<fig>
+		<title>${1:title}</title>
+		<image href="${2:}" alt="${3:}"/>
+	</fig>
 
 **uicontrol**
 ::

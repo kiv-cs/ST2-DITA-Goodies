@@ -1,0 +1,10 @@
+<snippet>
+       <content><![CDATA[
+<fig>
+	<title>${1:title}</title>
+	<image href="${2:}" alt="${3:}"/>
+</fig>
+]]></content>
+       <tabTrigger>fig</tabTrigger>
+       <description>DITA fig</description>
+</snippet>
